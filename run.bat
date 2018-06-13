@@ -1,3 +1,3 @@
 @echo off
-python C:\Users\Jackon\Desktop\Graphers\start.py %*
+python start.py %*
 pause
